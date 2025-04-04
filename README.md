@@ -1,6 +1,6 @@
 # jpa01-leexe
 
-Deployed at: https://jpa02-cgaucho.dokku-07.cs.ucsb.edu/
+Deployed at: https://jpa01-leexe.dokku-07.cs.ucsb.edu/
 
 
 # About this repo
